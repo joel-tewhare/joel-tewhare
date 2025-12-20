@@ -9,7 +9,7 @@ Through tech, I’ve continued to solve problems in creative ways, building web 
 ### 💻 Featured Projects
 - **Money Moe** – Educational POS system for learning financial literacy
 - **In My Feelings** – Full-stack feelings and journaling app 
-- **Emails I Never Send** – Writing-practice app focused on reflection and UX (in progress)
+- **Emails I Never Send** – Writing-practice app focused on reflection and AI-generated feedback (in progress)
 
 ### 🔗 Connect
 - [LinkedIn](https://www.linkedin.com/in/joeltewhare/)
