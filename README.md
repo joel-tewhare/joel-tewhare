@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi, I'm Joel 👋
+I'm a full-stack software developer based in Lichfield, New Zealand.
 
+# 😄 About Me
+
+# 💻 Projects
+
+# 💼 Tech Stack
+
+# 🔭 Currently Working On
+
+# 📫 Let's Connect
 <!--
 **joel-tewhare/joel-tewhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
