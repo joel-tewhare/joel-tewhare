@@ -1,15 +1,19 @@
 ## Hi, I'm Joel 👋
 I'm a full-stack software developer based in Lichfield, New Zealand.
 
-# 😄 About Me
+### 😄 About Me
+I have a background in managing online assets for small business and spent a decade working internationally at sea. 
+While working in the online business space, I often had ideas that were limited by my technical skill set. This inspired a move into software development through Dev Academy.
+Through tech, I’ve continued problem-solving in creative ways and have thoughtfully planned projects while developing new interests in UX-led design
+and writing well-structured backend code. My goal is to find opportunities in tech where these elements can be a part of my day-to-day tasks, in a supportive environment where growth and challenging yourself is encouraged.
 
-# 💻 Projects
+### 💻 Projects
 
-# 💼 Tech Stack
+### 💼 Tech Stack
 
-# 🔭 Currently Working On
+### 🔭 Currently Working On
 
-# 📫 Let's Connect
+### 📫 Let's Connect
 <!--
 **joel-tewhare/joel-tewhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
