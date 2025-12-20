@@ -3,14 +3,13 @@ I'm a full-stack software developer based in Lichfield, New Zealand.
 
 ### 😄 About Me
 I have a background in digital platforms, e-commerce, and a decade of working internationally at sea.
-While working in the online business space, I decided to make a move into software development through Dev Academy.
-Through tech, I’ve continued to solve problems in creative ways, building web applications with UX-led design and well-structured backend code. I'd love to find opportunities in tech where these elements are a part of my day-to-day tasks, and work in a supportive environment where growth and challenging yourself is encouraged.
+While working in the online business space, I decided to make a move into software development, studying part-time at Dev Academy.
+Through tech, I’ve continued to solve problems in creative ways, building web applications with UX-led design and well-structured backend code. I'd love to find career opportunities where these elements are a part of my day-to-day tasks, and work in a supportive environment where growth and challenging yourself is encouraged.
 
 ### 💻 Featured Projects
 - **Money Moe** – Educational POS system for learning financial literacy
 - **In My Feelings** – Full-stack feelings and journaling app 
 - **Emails I Never Send** – Writing-practice app focused on reflection and UX (in progress)
-- **Hardware Hub** – Rebuilt full-stack marketplace project (in progress)
 
 ### 🔗 Connect
 - [LinkedIn](https://www.linkedin.com/in/joeltewhare/)
