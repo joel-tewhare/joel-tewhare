@@ -2,18 +2,18 @@
 I'm a full-stack software developer based in Lichfield, New Zealand.
 
 ### 😄 About Me
-I have a background in managing online assets for small business and spent a decade working internationally at sea. 
-While working in the online business space, I often had ideas that were limited by my technical skill set. This inspired a move into software development through Dev Academy.
-Through tech, I’ve continued problem-solving in creative ways and have thoughtfully planned projects while developing new interests in UX-led design
-and writing well-structured backend code. My goal is to find opportunities in tech where these elements can be a part of my day-to-day tasks, in a supportive environment where growth and challenging yourself is encouraged.
+I have a background in digital platforms, e-commerce, and a decade of working internationally at sea.
+While working in the online business space, I decided to make a move into software development through Dev Academy.
+Through tech, I’ve continued to solve problems in creative ways, building web applications with UX-led design and well-structured backend code. I'd love to find opportunities in tech where these elements are a part of my day-to-day tasks, and work in a supportive environment where growth and challenging yourself is encouraged.
 
-### 💻 Projects
+### 💻 Featured Projects
+- **Money Moe** – Educational POS system for learning financial literacy
+- **In My Feelings** – Full-stack feelings and journaling app 
+- **Emails I Never Send** – Writing-practice app focused on reflection and UX (in progress)
+- **Hardware Hub** – Rebuilt full-stack marketplace project (in progress)
 
-### 💼 Tech Stack
-
-### 🔭 Currently Working On
-
-### 📫 Let's Connect
+### 🔗 Connect
+- [LinkedIn](https://www.linkedin.com/in/joeltewhare/)
 <!--
 **joel-tewhare/joel-tewhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
