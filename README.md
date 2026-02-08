@@ -7,9 +7,10 @@ While working in the online business space, I decided to make a move into softwa
 Through tech, I’ve continued to solve problems in creative ways, building web applications with UX-led design and well-structured backend code. I'd love to find opportunities where these elements are a part of my day-to-day tasks, and work in a supportive environment where growth and challenging yourself is encouraged.
 
 ### 💻 Featured Projects
+- **Emails I Never Send** – Writing-practice app focused on reflection and AI-generated feedback
 - **Money Moe** – Educational POS system for learning financial literacy
 - **In My Feelings** – Full-stack feelings and journaling app 
-- **Emails I Never Send** – Writing-practice app focused on reflection and AI-generated feedback (in progress)
+
 
 ### 🔗 Connect
 - [LinkedIn](https://www.linkedin.com/in/joeltewhare/)
